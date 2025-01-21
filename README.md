@@ -1,5 +1,5 @@
-# AIPI-XAI-Interpretable-ML-II
-This project explores the **World Happiness Report 2023** dataset using interpretable machine learning models from the **imodels** library. The goal of the project is to predict happiness levels across countries and gain insights into the key factors influencing global happiness using transparent, interpretable models.
+# Interpretable ML: Insights from World Happiness 2023
+This notebook explores the **World Happiness Report 2023** dataset using interpretable machine learning models from the **imodels** library. The goal of the project is to predict happiness levels across countries and gain insights into the key factors influencing global happiness using transparent, interpretable models.
 
 ## Models Used:
 1. **SkopeRulesClassifier** - A rule-based classifier that selects interpretable if-then decision rules for classification.
